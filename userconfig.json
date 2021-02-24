@@ -3,4 +3,5 @@
   "cert_channel":1234567890
   "join_channel":1234567890
   "remove_channel":1234567890
+  "update_version":"1.0.02"
 }
